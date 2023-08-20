@@ -1,4 +1,4 @@
 Indian States & Union Territories renedered as squares for use in data visualization. Inspired by https://github.com/geobabbler/us-state-squares/blob/master/example.png.
-This is a static GeoJSON file that renders the Indian states & Union Territories as squares. The location data is completely arbitrary and this data set is not intended for use in spatial analysis. The geometry itself would not be useful for actual mapping, but will be suitable in visualization tools such as D3.
+This is a static GeoJSON file that renders the Indian states & Union Territories as hexagons. The location data is completely arbitrary and this data set is not intended for use in spatial analysis. The geometry itself would not be useful for actual mapping, but will be suitable in visualization tools such as D3.
 
 Note- The id is given to the states first and then to the union territories in alphabetical order. (Refer https://en.wikipedia.org/wiki/States_and_union_territories_of_India).
